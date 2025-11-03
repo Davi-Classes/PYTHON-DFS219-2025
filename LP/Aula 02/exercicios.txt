@@ -1,0 +1,3 @@
+Ex01. Faça um programa que peça 2 numeros e mostre a multiplicação (produto) entre eles
+
+Ex02. Calculador de Média: Peça ao usuário 3 valores decimais, e mostre a média aritimética (a soma dos valores dividido pela quantidade) dos numeros.
